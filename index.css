@@ -1,0 +1,35 @@
+body{
+      background-image: linear-gradient(45deg,black, blue, gray);
+      background-attachment: fixed;
+      color: white;
+      text-align: center;
+      font-size: 20px;
+}
+
+a{     
+   color: red;
+
+}
+
+h1{ 
+    background-color: black;
+    border-radius: 20px;
+}
+
+section{ 
+      color: black;
+      background-color: white;
+      border-radius: 20px;
+}
+
+img {
+        border-style: solid;
+        border-color:black;
+        border-width: 15px;
+}
+
+h4{
+    
+    background-color: black;
+    border-radius: 20px;
+}
